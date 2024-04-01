@@ -1,0 +1,12 @@
+.bloc {
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+}
+.ul {background-color: antiquewhite;
+    color: black;
+    font-weight: bold;
+    font-size: 20;
+    
+    justify-items: center;
+}
